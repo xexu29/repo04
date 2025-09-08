@@ -1,0 +1,1 @@
+4.1 Crea un directrorio llamado repo04, esta vez tu decides como lo haces. Es decir, tendras que seleccionar uno de los dos caminos que hemos visto en los dos ejercicios anteriores. Pero si que queremos que exista el repostiorio el local y en remoto.
