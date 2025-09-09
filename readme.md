@@ -7,4 +7,9 @@
 ![alt text](image-1.png)  
 
 4.5 Haz 3 commits desde nuestra rama (jesus09092025)
-![alt text](image-2.png)
+![alt text](image-2.png)  
+
+4.6 En el siguiente orden realiza lo siguiente:  
+4.6.1 Fusiona tu rama con master 
+ ![alt text](image-3.png)
+4.6.2 Haz un push hacia la nube.
