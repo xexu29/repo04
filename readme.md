@@ -4,3 +4,4 @@
 ![alt text](image.png)  
 
 4.4 Desde tu rama (jesus09092025) edita el fichero readme.md de tal forma que quede de la saiguiente manera:
+![alt text](image-1.png)
