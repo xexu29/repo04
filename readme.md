@@ -4,4 +4,7 @@
 ![alt text](image.png)  
 
 4.4 Desde tu rama (jesus09092025) edita el fichero readme.md de tal forma que quede de la saiguiente manera:
-![alt text](image-1.png)
+![alt text](image-1.png)  
+
+4.5 Haz 3 commits desde nuestra rama (jesus09092025)
+![alt text](image-2.png)
