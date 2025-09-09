@@ -12,4 +12,11 @@
 4.6 En el siguiente orden realiza lo siguiente:  
 4.6.1 Fusiona tu rama con master 
  ![alt text](image-3.png)
-4.6.2 Haz un push hacia la nube.
+4.6.2 Haz un push hacia la nube.  
+![alt text](image-4.png)
+
+4.7 Elimina solamente la rama en local jesus09092025 ya que si eliminasemos la remota no veriamos la rama en remoto.  
+![alt text](image-5.png)
+
+4.8- visaliza el resultado tanto mediante el comando git log --all --oneline --decorate --graph
+![alt text](image-6.png)
